@@ -1,11 +1,12 @@
 ﻿#target photoshop
 
 /*
+	!!! No longer useful, with the advent of Generator !!!
+	
 	Loops recursively through all layer groups, trims them and exports them as separate pngs.
 	Layers that should not be exported should not be visible, including root level layers, as this script only deals with layer groups.
 	
-	WARNING: There is no error catching, and files with identical group names will be overwritten
-	
+	WARNING: There is no error catching, and files with identical group names will be overwritten!
 	
 	By Marcus Kjeldsen, 2013
 	

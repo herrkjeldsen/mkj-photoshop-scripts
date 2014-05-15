@@ -1,7 +1,10 @@
 ﻿/*
-Marcus Kjeldsen 2014
-Basic script to place all linked smart objects in a folder.
+    Marcus Kjeldsen 2014
+    Basic script to place all linked smart objects in a folder.
+    
+    // TODO :: make recursive
 */
+
 
 var theFolder = Folder.selectDialog ("select folder");
 
