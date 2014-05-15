@@ -1,6 +1,6 @@
 ﻿/*
     Marcus Kjeldsen 2014
-    Basic script to place all linked smart objects in a folder.
+    Basic Photoshop script to place all images in a folder as linked smart objects.
     
     // TODO :: make recursive
 */
