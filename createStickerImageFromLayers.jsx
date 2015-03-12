@@ -1,6 +1,7 @@
 ﻿/*
-Marcus Kjeldsen 2014
-Basic script to place all selected layers into grid based on initial position, scale and document dimensions.
+	Marcus Kjeldsen 2014
+	Version: 0.1
+	Basic script to place all selected layers into grid based on initial position, scale and document dimensions. Superbuggy and incomplete
 */
 
 
